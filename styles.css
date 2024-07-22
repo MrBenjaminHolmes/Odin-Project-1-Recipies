@@ -1,0 +1,19 @@
+*{
+    background-color: #1a1a1a;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+}
+
+h1{
+    font-weight: 3000;
+}
+
+img{
+    border: 10px solid #ffce2b;
+    padding: 0px;
+
+  }
+
+.home{
+    font-size: x-large;
+}
