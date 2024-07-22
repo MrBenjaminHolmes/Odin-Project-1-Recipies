@@ -1,19 +1,27 @@
-*{
+/* styles.css */
+* {
     background-color: #1a1a1a;
     font-family: 'Courier New', Courier, monospace;
     color: #ffffff;
 }
 
-h1{
+h1 {
     font-weight: 3000;
 }
 
-img{
+img {
     border: 10px solid #ffce2b;
     padding: 0px;
+}
 
-  }
+.flexcontainer {
+    display: flex;
+    
+      
 
-.home{
-    font-size: x-large;
+}
+
+.flexcontainer div {
+    flex: 1;
+    text-align: center;    
 }
